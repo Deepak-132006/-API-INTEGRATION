@@ -3,6 +3,7 @@
 A simple and elegant **Weather App** built with **React.js** and **OpenWeather API**.  
 This app allows users to search for any city and instantly view real-time weather details such as temperature, conditions, and humidity.
 
+
 ---
 
 ## 🚀 Live Demo
